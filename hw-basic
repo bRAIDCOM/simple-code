@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+ {
+  cout << "Hello Guys, this is example of C++ code" << endl;
+  system ('Pause'); //This is for MS VS only. 
+  return 0;
+ }
